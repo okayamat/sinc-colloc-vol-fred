@@ -21,7 +21,7 @@ system of linear equations and its condition number. If you want to use
 another LAPACK library, modify make files according to your installation.
 
 Each program solves those problems increasing N as N = 5, 10, 15, 20, ...,
-and outputs n, maximum error over the target interval, and the condition
+and outputs n=2N+1, maximum error over the target interval, and the condition
 number (with the infinity norm) of the resulting system.
 
 ## Results

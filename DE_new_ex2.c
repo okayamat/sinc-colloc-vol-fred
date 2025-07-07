@@ -111,7 +111,7 @@ int main()
 {
   double a = 0.0;
   double b = 1.0;
-  double d = 1.21;
+  double d = 1.11;
   double alpha = 0.5;
   double *A_N, *f_N, *x_N;
   int* ipiv;

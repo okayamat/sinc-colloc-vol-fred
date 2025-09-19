@@ -13,7 +13,7 @@ Those problems are solved by means of the following 4 methods:
 
 The name of the program denotes the method and example number. For
 example, SE_orig_ex1.c denotes the Original SE-Sinc-collocation method
-for Example 1, and DE_new_ex2.c denotes the New SE-Sinc-collocation method
+for Example 1, and DE_new_ex2.c denotes the New DE-Sinc-collocation method
 for Example 2.
 
 LAPACK in Apple's Accelerate framework is used for computation of the

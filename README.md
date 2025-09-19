@@ -42,7 +42,7 @@ Library: LAPACK (Apple's Accelerate framework)
  Math. Soc., Vol. 35 (2016), pp. 408--423.
 2. T. Okayama: Improvement of Sinc-collocation methods for Volterra-Fredholm
  integral equations of the second kind and their theoretical analysis,
- arXiv:2503.11569 [math.NA], Mar 2025.
+ J. Comput. Appl. Math., Vol. 476 (2026), 117055.
 3. A. S. Shamloo, S. Shahkar, and A. Madadi: Numerical solution of the
  Fredholme-Volterra integral equation by the Sinc function, Am. J. Comput.
  Math., Vol. 2 (2012), pp. 136--142.
